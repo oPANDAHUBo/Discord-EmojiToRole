@@ -45,3 +45,4 @@ All messages to track and their respective settings go into the config.json file
 **Channel**: ID of the channel the message is located in  
 **disjoint**: Wether the bot runs in mutually exclusive (true) or independent (false) mode  
 **Reactions**: The reactions to pay attention to and the role(s) they stand for  
+[![Run on Repl.it](https://repl.it/badge/github/NKN1396/Discord-EmojiToRole)](https://repl.it/github/NKN1396/Discord-EmojiToRole)
